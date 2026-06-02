@@ -22,7 +22,7 @@ with open("raw_grades.txt", "r") as file:
             student_data[key] = value
         
         # 2. Data Cleaning: Check for missing/corrupt values
-        for subject in ["Math", "Physics", "Coding"]:
+        for subject in ["Differential cal", "digital logic software design", "python"]:
             val = student_data[subject]
             if val.isdigit():
                 student_data[subject] = int(val)
@@ -30,7 +30,7 @@ with open("raw_grades.txt", "r") as file:
                 student_data[subject] = 0  # Safe default substitution for "NA" or "missing"
         
         # 3. Analytics & Computations
-        total = student_data["Math"] + student_data["Physics"] + student_data["Coding"]
+        total = student_data["Differential cal"] + student_data["digital logic software design"] + student_data["python"]
         average = round(total / 3, 2)
         
         student_data["Total"] = total
@@ -47,7 +47,7 @@ with open("performance_report.txt", "w") as out_file:
     
     for s in students_list:
         out_file.write(f"Roll No: {s['Roll_No']} | Name: {s['Name']}\n")
-        out_file.write(f"Scores  -> Math: {s['Math']}, Physics: {s['Physics']}, Coding: {s['Coding']}\n")
+        out_file.write(f"Scores  -> Differential cal: {s['Differential cal']}, digital logic software design: {s['digital logic software design']}, python: {s['python']}\n")
         out_file.write(f"Result  -> Total: {s['Total']} | Avg: {s['Average']}% | Status: {s['Status']}\n")
         out_file.write("-" * 50 + "\n")
 

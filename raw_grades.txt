@@ -1,5 +1,5 @@
-Roll_No:101, Name:Hema, Differential cal:85, Physics:90, Coding:95
-Roll_No:102, Name:Rahul, Differential cal:45, Physics:55, Coding:NA
-Roll_No:103, Name:Sneha, Differential cal:78, Physics:82, Coding:88
-Roll_No:104, Name:Vijay, Differential cal:35, Physics:40, Coding:40
-Roll_No:105, Name:Anjali, Differential cal:92, Physics:missing, Coding:89
+Roll_No:101, Name:Hema, Differential cal:85, digital logic software design:90, python:95
+Roll_No:102, Name:Rahul, Differential cal:45, digital logic software design:55, python:NA
+Roll_No:103, Name:Sneha, Differential cal:78, digital logic software design:82, python:88
+Roll_No:104, Name:Vijay, Differential cal:35, digital logic software design:40, python:40
+Roll_No:105, Name:Anjali, Differential cal:92, digital logic software design:missing,python:89

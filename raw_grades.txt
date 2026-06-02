@@ -3,3 +3,13 @@ Roll_No:102, Name:Rahul, Differential cal:45, digital logic software design:55, 
 Roll_No:103, Name:Sneha, Differential cal:78, digital logic software design:82, python:88
 Roll_No:104, Name:Vijay, Differential cal:35, digital logic software design:40, python:40
 Roll_No:105, Name:Anjali, Differential cal:92, digital logic software design:missing,python:89
+Roll_No:106, Name:Amit, Differential cal:62, digital logic software design:68, python:70
+Roll_No:107, Name:Priya, Differential cal:95, digital logic software design:94, python:98
+Roll_No:108, Name:Rohan, Differential cal:28, digital logic software design:35, python:42
+Roll_No:109, Name:Kiran, Differential cal:missing, digital logic software design:74, python:80
+Roll_No:110, Name:Deepak, Differential cal:50, digital logic software design:52, python:NA
+Roll_No:111, Name:Neha, Differential cal:88, digital logic software design:91, python:85
+Roll_No:112, Name:Vikram, Differential cal:41, digital logic software design:missing, python:45
+Roll_No:113, Name:Shalini, Differential cal:76, digital logic software design:80, python:78
+Roll_No:114, Name:Sanjay, Differential cal:33, digital logic software design:45, python:38
+Roll_No:115, Name:Megha, Differential cal:90, digital logic software design:87, python:92
